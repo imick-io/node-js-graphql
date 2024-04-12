@@ -1,0 +1,27 @@
+{
+  "name": "nodejsgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imick-io/node-js-graphql.git"
+  },
+  "author": "iMick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imick-io/node-js-graphql/issues"
+  },
+  "homepage": "https://github.com/imick-io/node-js-graphql#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1"
+  }
+}
